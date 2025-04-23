@@ -25,7 +25,7 @@ My life's work is about building systems that let me focus more on what matters.
 Kernix is my cognitive stack. It’s an ecosystem of tools I needed, so I'm building them:
 
 - **Library** – Deployable prompt packs, modular strategies, tool configs  
-- **Studio** – A modular IDE for workflows and agent chains  
+- **Studio** – A modular "LLM IDE" for workflows and agent chains  
 - **Replicate** – A second-you framework (trainable cognition, not personas)  
 - **Accelerator** – For solo builders scaling with AI, not headcount
 
